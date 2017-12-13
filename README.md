@@ -1,6 +1,6 @@
 # dynamic-routing-between-capsules
 
-This is a basic and easy to understand implementation of the paper dynamic routing between capsules
+This is a basic and easy to understand implementation of the paper 《dynamic routing between capsules》.
 If you have any question or improving suggestion please contact me. My wechat number is 348514177.
 
 How to run these code ?
