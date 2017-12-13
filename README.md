@@ -21,6 +21,6 @@ My Wechat : 348514177
 2. 下载训练集和测试集，把他们和代码放到同一个文件夹。
    下载链接： https://www.kaggle.com/c/digit-recognizer/data
 3. 运行CapsNet_Mnist.py，最后会生成一个prediction.csv的文件。
-4. 上次prediction.csv到kaggle并且得到一个分数。
+4. 上传prediction.csv到kaggle并且得到一个分数。
 
 我的微信： 348514177
